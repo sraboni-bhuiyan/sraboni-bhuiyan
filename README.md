@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm **Sraboni Bhuiyan**, studying in MSc in Computer Science at University of Bonn. My studies are focused on Intelligent Systems (Machine Learning and Data).
+I'm **Sraboni Bhuiyan**, studying MSc in Computer Science at University of Bonn. My studies are focused on Intelligent Systems (Machine Learning and Data).
 
 🔭 I'm currently working as a Software Tester Werkstudent (Student-assistant) in [ip.labs GmbH](https://www.iplabs.de/en/). I have now 2 years of experience working with Software Testing & Quality Assurance.
 
